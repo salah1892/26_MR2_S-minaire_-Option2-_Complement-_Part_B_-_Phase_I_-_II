@@ -1,0 +1,184 @@
+[
+  {
+    "query": "Donne-moi un exemple de rituel tunisien.",
+    "normalized_query": "Donne-moi un exemple de rituel tunisien.",
+    "answer": "Réponse (basée sur la base locale):\n- Contexte 1 (Appendix-Examples of Tunisian Intangible Heritage.pdf p.2): Keywords: public baths, steam, exfoliation, prewedding purification, social space, women’s networks, weekly habits.wikipedia+1​3.4 Bouhrous ritual in Jarsin (Kébili)Keywords: Jarsin, palmleaf doll, tenday cycle, perfume ritual, community gathering, memory of a saint.asjp.cerist​3.5 Saintday celebrations and pilgrimagesKeywords: marabout shrines, ziyara, candles, vows, processions, local markets, shared meals, religious chants.folklife.si+1​4. Historical narratives, slogans, and commemorations4.1 Echebbiinspired revolution slogansKeywords: “The Will to Live”, Arab Spring, protest chants, banners, street art, poetic lines as slogans, 2010–2011.boundary2+1​4.2 Oral memories of anticolonial resistanceKeywords: French protectorate, guerrilla stories, village heroes, oral testimonies, elders’ narratives, local toponyms.boundary2+1​4.3 Commemorations of independence and martyrsKeywords: national holidays, official speeches, wreathlaying, school ceremonies, patriotic songs, televised rituals.boundary2+1​4.4 Narratives around the Tunisian RevolutionKeywords: Sidi Bouzid, Mohamed Bouazizi, protest camps, sitins, youth testimonies, neighborhood stories, media slogans.boundary2​4.5 Local conflict and migration storiesKeywords: border regions, smuggling routes, clandestine migration, shipwreck memories, community mourning rituals.patrimoinedetunisie+1​1.https://www.bestofbanknotes.com/abou-el-kacem-chebbi-voice-of-tunisian-poetry/2.https://en.wikipedia.org/wiki/Aboul-Qacem_Echebbi3.https://www.academia.edu/9133583/Bedouin_Women_s_Poetry_in_Southern_Tunisia4.https://asjp.cerist.dz/en/downArticle/920/3/1/2724815.https://en.wikipedia.org/wiki/Culture_of_Tunisia6.https://ich.unesco.org/en/RL/performing-arts-among-the-twyef-of-ghbonten-018757.https://www.boundary2.org/2013/05/mohamed-salah-omris-original-essay-on-the-tunisian-revolution/8.https://music.apple.com/am/album/tunisia-vol-3-folk-music/2685999029.https://www.youtube.com/watch?v=QvsaRAlz9H810.https://fanack.com/tunisia/culture-of-tunisia/tunisian-weddings-a-tale-of-tradition-and-modernity/11.https://open.spotify.com/playlist/2QkHlB3wtXfQBCQ0YVZGyn12.https://folklife.si.edu/news-and-events/tunisia-ich-symposium13.https://www.patrimoinedetunisie.com.tn/en/news/news/patrimoine-culturel-immateriel-et-enjeux-de-sauvegarde-et-de-durabilite-en-lien-avec-le-tourisme-cu/?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=e4f0a3e9bac92e9c2e3c0b96b0e3fb24\n- Contexte 2 (Examen MR2-Option2-Seminaire-13-01-2026-Final.pdf p.1): Exam MR2 (Option2)Nom et prénom:CIN:Allowed documents:1- Datacamp Resources2- List of FiguresPart A : Total: 10 points1- Insert your proof of progress in the program of ‘’ Building Scalable Agentic Systems’’ -Statement of accomplishment (1.5H)2- Insert your proof of progress in the program of ‘’Associate AI Engineer for Developers’’ -Statement of accomplishment (26H)-Certificate: AI Engineer for Developers Associate-Transcript about obtained ScorePart B : Total: 10 pointsTitle: Agentic RAG System for Tunisian Heritage using Foundation Models and Workflow OrchestrationYou are mandated by a Tunisian public institution (e.g. INP, CNCI, regional heritage office) to design and implement an AI assistant that answers questions about Tunisian intangible heritage (poetry, songs, oral stories, rituals, historical events) in Arabic and French. The system must: - Use foundation models (LLMs and, later, multimodal models) combined with RetrievalAugmented Generation (RAG).- Be orchestrated using a workflow tool (e.g. n8nstyle logic: triggers, nodes, branches, subworkflows).- Respect AI sovereignty constraints (preference for openweight models, local/vectorized storage of Tunisian data, minimal reliance on foreign services for sensitive data).- Exhibit agentic behavior (the assistant decides when to search, translate, consult an ontology, or refuse).The exam is split into two phases:Phase 1 – Inclass Design (No Internet)\n- Contexte 3 (Appendix-Examples of Tunisian Intangible Heritage.pdf p.1): Appendix – Examples of Tunisian intangible heritage1. Oral poetry and literature1.1 Nationalist Tunisian poetryKeywords: AboulQacem Echebbi, “The Will to Live”, “To the Tyrants of the World”, recitation, school canon, revolution slogans.bestofbanknotes+1​1.2 Bedouin women’s oral poetryKeywords: southern Tunisia, Maṛāzīg, women’s gatherings, lullabies, love poems, laments, oral transmission.academia+1​1.3 Dialectal “malhoun” poetryKeywords: Tunisian Arabic, sung poetry, cafés, rural festivals, improvisation, humor, social satire.asjp.cerist+1​1.4 Twāyef of Ghbonten poetic repertoiresKeywords: Ghbonten, ritual poets, chanted verse, religious themes, local history, performing groups.ich.unesco​1.5 Family and village oral storiesKeywords: preindependence resistance, colonial period, martyrs, heroic ancestors, local legends, evening storytelling.wikipedia+1​2. Songs, chants, and music (with instruments)2.1 Malouf and Andalusiinspired musicKeywords: malouf, orchestra, oud, qanun, violin, ney, riqq, darbuka, urban salons, classical suites.music.apple+1​2.2 Sufi hadhra and madih chantsKeywords: hadhra, dhikr, religious gatherings, bendir, frame drums, chorus, trance, saint festivals.youtube​asjp.cerist​2.3 Wedding and henna songsKeywords: women’s chorus, henna night, ululation, darbuka, bendir, modern keyboard, procession, bride rituals.fanack+1​2.4 Rural and Bedouin vocal musicKeywords: desert regions, shepherd songs, gassba flute, simple percussion, callandresponse, seasonal work songs.academia+1​2.5 Popular folk ensemblesKeywords: folk bands, oud, violin, accordion, qanun, darbuka, dance music, regional festivals, recorded albums.wikipedia+1​3. Rituals, social practices, festive events3.1 Wedding ritual sequenceKeywords: engagement, hammam visit, henna ceremony, zaffa procession, songs, gifts, women’s rituals, family gathering.fanack​3.2 Henna and body adornment practicesKeywords: henna patterns, hands and feet, symbolism, protection, fertility, women’s expertise, prewedding preparation.asjp.cerist+1​3.3 Hammam rituals\n- Contexte 4 (Examen MR2-Option2-Seminaire-13-01-2026-Final.pdf p.3): Indicate explicitly in your pseudocode or on your diagrams where evaluation will be applied in Phase 2, for example:- After `Generate_LLM_Response`: measure heritage answer quality and hallucination risk. - After tool selection: measure percentage of queries requiring foreign services. - After logging: enable future analysis of bias, coverage, and failure modes.Phase 2 – Outofclass Implementation & Evaluation (optional)In this phase you can use Internet, workflow tools (e.g. n8n), APIs, and any allowed opensource components. You must implement and evaluate the design from Phase 1, with minimal justified adaptations.4. Implementation and demonstrationUsing a workflow/orchestration tool of your choice (e.g. n8nstyle system):- Implement the ingestion/indexing workflow and the query/agent workflow that correspond to your Phase1 diagrams (adaptations must be explained briefly). - Provide evidence of execution (screenshots of workflows, log excerpts, and at least 3 example queries and outputs that show: - a purely heritage RAG answer, - a case requiring translation, - a case that should be refused or redirected).Your implementation can be minimal but must be coherent with your initial design. 5. Evaluation and critical reflectionPrepare a concise report (1–2 pages) that includes: 5.1 Test and evaluation results - At least 5 test queries (including some from Phase 1) that cover: - Different languages (Arabic/French). - Different content types (poetry, rituals, historical events). - At least one “difficult” or ambiguous\n\nSynthèse: (à compléter par un modèle LLM local si disponible)\n- Je me base sur les extraits ci-dessus; si tu veux une réponse plus détaillée, je peux reformuler et structurer davantage.",
+    "tool_uses": [
+      {
+        "name": "sovereignty_check",
+        "details": {
+          "ok": true,
+          "reason": "local-only"
+        }
+      },
+      {
+        "name": "detect_language",
+        "details": {
+          "lang": "fr"
+        }
+      },
+      {
+        "name": "retrieve",
+        "details": {
+          "k": 4,
+          "top_scores": [
+            0.12227118719495508,
+            0.0931317272410806,
+            0.07758657990408563
+          ]
+        }
+      }
+    ],
+    "eval": {
+      "after_generate": {
+        "hallucination_risk_proxy": 0.9129398518587102
+      },
+      "after_tool_selection": {
+        "foreign_tools_used": 0
+      }
+    },
+    "retrieved": [
+      {
+        "doc_id": "Appendix-Examples of Tunisian Intangible Heritage",
+        "source_path": "data\\raw\\Appendix-Examples of Tunisian Intangible Heritage.pdf",
+        "page": 2,
+        "chunk_id": "p2-c0",
+        "text": "Keywords: public baths, steam, exfoliation, prewedding purification, social space, women’s networks, weekly habits.wikipedia+1​3.4 Bouhrous ritual in Jarsin (Kébili)Keywords: Jarsin, palmleaf doll, tenday cycle, perfume ritual, community gathering, memory of a saint.asjp.cerist​3.5 Saintday celebrations and pilgrimagesKeywords: marabout shrines, ziyara, candles, vows, processions, local markets, shared meals, religious chants.folklife.si+1​4. Historical narratives, slogans, and commemorations4.1 Echebbiinspired revolution slogansKeywords: “The Will to Live”, Arab Spring, protest chants, banners, street art, poetic lines as slogans, 2010–2011.boundary2+1​4.2 Oral memories of anticolonial resistanceKeywords: French protectorate, guerrilla stories, village heroes, oral testimonies, elders’ narratives, local toponyms.boundary2+1​4.3 Commemorations of independence and martyrsKeywords: national holidays, official speeches, wreathlaying, school ceremonies, patriotic songs, televised rituals.boundary2+1​4.4 Narratives around the Tunisian RevolutionKeywords: Sidi Bouzid, Mohamed Bouazizi, protest camps, sitins, youth testimonies, neighborhood stories, media slogans.boundary2​4.5 Local conflict and migration storiesKeywords: border regions, smuggling routes, clandestine migration, shipwreck memories, community mourning rituals.patrimoinedetunisie+1​1.https://www.bestofbanknotes.com/abou-el-kacem-chebbi-voice-of-tunisian-poetry/2.https://en.wikipedia.org/wiki/Aboul-Qacem_Echebbi3.https://www.academia.edu/9133583/Bedouin_Women_s_Poetry_in_Southern_Tunisia4.https://asjp.cerist.dz/en/downArticle/920/3/1/2724815.https://en.wikipedia.org/wiki/Culture_of_Tunisia6.https://ich.unesco.org/en/RL/performing-arts-among-the-twyef-of-ghbonten-018757.https://www.boundary2.org/2013/05/mohamed-salah-omris-original-essay-on-the-tunisian-revolution/8.https://music.apple.com/am/album/tunisia-vol-3-folk-music/2685999029.https://www.youtube.com/watch?v=QvsaRAlz9H810.https://fanack.com/tunisia/culture-of-tunisia/tunisian-weddings-a-tale-of-tradition-and-modernity/11.https://open.spotify.com/playlist/2QkHlB3wtXfQBCQ0YVZGyn12.https://folklife.si.edu/news-and-events/tunisia-ich-symposium13.https://www.patrimoinedetunisie.com.tn/en/news/news/patrimoine-culturel-immateriel-et-enjeux-de-sauvegarde-et-de-durabilite-en-lien-avec-le-tourisme-cu/?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=e4f0a3e9bac92e9c2e3c0b96b0e3fb24",
+        "score": 0.12227118719495508,
+        "rank": 1
+      },
+      {
+        "doc_id": "Examen MR2-Option2-Seminaire-13-01-2026-Final",
+        "source_path": "data\\raw\\Examen MR2-Option2-Seminaire-13-01-2026-Final.pdf",
+        "page": 1,
+        "chunk_id": "p1-c0",
+        "text": "Exam MR2 (Option2)Nom et prénom:CIN:Allowed documents:1- Datacamp Resources2- List of FiguresPart A : Total: 10 points1- Insert your proof of progress in the program of ‘’ Building Scalable Agentic Systems’’ -Statement of accomplishment (1.5H)2- Insert your proof of progress in the program of ‘’Associate AI Engineer for Developers’’ -Statement of accomplishment (26H)-Certificate: AI Engineer for Developers Associate-Transcript about obtained ScorePart B : Total: 10 pointsTitle: Agentic RAG System for Tunisian Heritage using Foundation Models and Workflow OrchestrationYou are mandated by a Tunisian public institution (e.g. INP, CNCI, regional heritage office) to design and implement an AI assistant that answers questions about Tunisian intangible heritage (poetry, songs, oral stories, rituals, historical events) in Arabic and French. The system must: - Use foundation models (LLMs and, later, multimodal models) combined with RetrievalAugmented Generation (RAG).- Be orchestrated using a workflow tool (e.g. n8nstyle logic: triggers, nodes, branches, subworkflows).- Respect AI sovereignty constraints (preference for openweight models, local/vectorized storage of Tunisian data, minimal reliance on foreign services for sensitive data).- Exhibit agentic behavior (the assistant decides when to search, translate, consult an ontology, or refuse).The exam is split into two phases:Phase 1 – Inclass Design (No Internet)",
+        "score": 0.0931317272410806,
+        "rank": 2
+      },
+      {
+        "doc_id": "Appendix-Examples of Tunisian Intangible Heritage",
+        "source_path": "data\\raw\\Appendix-Examples of Tunisian Intangible Heritage.pdf",
+        "page": 1,
+        "chunk_id": "p1-c0",
+        "text": "Appendix – Examples of Tunisian intangible heritage1. Oral poetry and literature1.1 Nationalist Tunisian poetryKeywords: AboulQacem Echebbi, “The Will to Live”, “To the Tyrants of the World”, recitation, school canon, revolution slogans.bestofbanknotes+1​1.2 Bedouin women’s oral poetryKeywords: southern Tunisia, Maṛāzīg, women’s gatherings, lullabies, love poems, laments, oral transmission.academia+1​1.3 Dialectal “malhoun” poetryKeywords: Tunisian Arabic, sung poetry, cafés, rural festivals, improvisation, humor, social satire.asjp.cerist+1​1.4 Twāyef of Ghbonten poetic repertoiresKeywords: Ghbonten, ritual poets, chanted verse, religious themes, local history, performing groups.ich.unesco​1.5 Family and village oral storiesKeywords: preindependence resistance, colonial period, martyrs, heroic ancestors, local legends, evening storytelling.wikipedia+1​2. Songs, chants, and music (with instruments)2.1 Malouf and Andalusiinspired musicKeywords: malouf, orchestra, oud, qanun, violin, ney, riqq, darbuka, urban salons, classical suites.music.apple+1​2.2 Sufi hadhra and madih chantsKeywords: hadhra, dhikr, religious gatherings, bendir, frame drums, chorus, trance, saint festivals.youtube​asjp.cerist​2.3 Wedding and henna songsKeywords: women’s chorus, henna night, ululation, darbuka, bendir, modern keyboard, procession, bride rituals.fanack+1​2.4 Rural and Bedouin vocal musicKeywords: desert regions, shepherd songs, gassba flute, simple percussion, callandresponse, seasonal work songs.academia+1​2.5 Popular folk ensemblesKeywords: folk bands, oud, violin, accordion, qanun, darbuka, dance music, regional festivals, recorded albums.wikipedia+1​3. Rituals, social practices, festive events3.1 Wedding ritual sequenceKeywords: engagement, hammam visit, henna ceremony, zaffa procession, songs, gifts, women’s rituals, family gathering.fanack​3.2 Henna and body adornment practicesKeywords: henna patterns, hands and feet, symbolism, protection, fertility, women’s expertise, prewedding preparation.asjp.cerist+1​3.3 Hammam rituals",
+        "score": 0.07758657990408563,
+        "rank": 3
+      },
+      {
+        "doc_id": "Examen MR2-Option2-Seminaire-13-01-2026-Final",
+        "source_path": "data\\raw\\Examen MR2-Option2-Seminaire-13-01-2026-Final.pdf",
+        "page": 3,
+        "chunk_id": "p3-c0",
+        "text": "Indicate explicitly in your pseudocode or on your diagrams where evaluation will be applied in Phase 2, for example:- After `Generate_LLM_Response`: measure heritage answer quality and hallucination risk. - After tool selection: measure percentage of queries requiring foreign services. - After logging: enable future analysis of bias, coverage, and failure modes.Phase 2 – Outofclass Implementation & Evaluation (optional)In this phase you can use Internet, workflow tools (e.g. n8n), APIs, and any allowed opensource components. You must implement and evaluate the design from Phase 1, with minimal justified adaptations.4. Implementation and demonstrationUsing a workflow/orchestration tool of your choice (e.g. n8nstyle system):- Implement the ingestion/indexing workflow and the query/agent workflow that correspond to your Phase1 diagrams (adaptations must be explained briefly). - Provide evidence of execution (screenshots of workflows, log excerpts, and at least 3 example queries and outputs that show: - a purely heritage RAG answer, - a case requiring translation, - a case that should be refused or redirected).Your implementation can be minimal but must be coherent with your initial design. 5. Evaluation and critical reflectionPrepare a concise report (1–2 pages) that includes: 5.1 Test and evaluation results - At least 5 test queries (including some from Phase 1) that cover: - Different languages (Arabic/French). - Different content types (poetry, rituals, historical events). - At least one “difficult” or ambiguous",
+        "score": 0.05525109822503807,
+        "rank": 4
+      }
+    ],
+    "timestamp": 1768837789.2801757
+  },
+  {
+    "query": "ما هو التراث اللامادي التونسي؟",
+    "normalized_query": "Qu'est-ce que le patrimoine immatériel tunisien ?",
+    "answer": "Réponse (basée sur la base locale):\n- Contexte 1 (Appendix-Examples of Tunisian Intangible Heritage.pdf p.2): Keywords: public baths, steam, exfoliation, prewedding purification, social space, women’s networks, weekly habits.wikipedia+1​3.4 Bouhrous ritual in Jarsin (Kébili)Keywords: Jarsin, palmleaf doll, tenday cycle, perfume ritual, community gathering, memory of a saint.asjp.cerist​3.5 Saintday celebrations and pilgrimagesKeywords: marabout shrines, ziyara, candles, vows, processions, local markets, shared meals, religious chants.folklife.si+1​4. Historical narratives, slogans, and commemorations4.1 Echebbiinspired revolution slogansKeywords: “The Will to Live”, Arab Spring, protest chants, banners, street art, poetic lines as slogans, 2010–2011.boundary2+1​4.2 Oral memories of anticolonial resistanceKeywords: French protectorate, guerrilla stories, village heroes, oral testimonies, elders’ narratives, local toponyms.boundary2+1​4.3 Commemorations of independence and martyrsKeywords: national holidays, official speeches, wreathlaying, school ceremonies, patriotic songs, televised rituals.boundary2+1​4.4 Narratives around the Tunisian RevolutionKeywords: Sidi Bouzid, Mohamed Bouazizi, protest camps, sitins, youth testimonies, neighborhood stories, media slogans.boundary2​4.5 Local conflict and migration storiesKeywords: border regions, smuggling routes, clandestine migration, shipwreck memories, community mourning rituals.patrimoinedetunisie+1​1.https://www.bestofbanknotes.com/abou-el-kacem-chebbi-voice-of-tunisian-poetry/2.https://en.wikipedia.org/wiki/Aboul-Qacem_Echebbi3.https://www.academia.edu/9133583/Bedouin_Women_s_Poetry_in_Southern_Tunisia4.https://asjp.cerist.dz/en/downArticle/920/3/1/2724815.https://en.wikipedia.org/wiki/Culture_of_Tunisia6.https://ich.unesco.org/en/RL/performing-arts-among-the-twyef-of-ghbonten-018757.https://www.boundary2.org/2013/05/mohamed-salah-omris-original-essay-on-the-tunisian-revolution/8.https://music.apple.com/am/album/tunisia-vol-3-folk-music/2685999029.https://www.youtube.com/watch?v=QvsaRAlz9H810.https://fanack.com/tunisia/culture-of-tunisia/tunisian-weddings-a-tale-of-tradition-and-modernity/11.https://open.spotify.com/playlist/2QkHlB3wtXfQBCQ0YVZGyn12.https://folklife.si.edu/news-and-events/tunisia-ich-symposium13.https://www.patrimoinedetunisie.com.tn/en/news/news/patrimoine-culturel-immateriel-et-enjeux-de-sauvegarde-et-de-durabilite-en-lien-avec-le-tourisme-cu/?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=e4f0a3e9bac92e9c2e3c0b96b0e3fb24\n- Contexte 2 (Examen MR2-Option2-Seminaire-13-01-2026-Final.pdf p.1): Exam MR2 (Option2)Nom et prénom:CIN:Allowed documents:1- Datacamp Resources2- List of FiguresPart A : Total: 10 points1- Insert your proof of progress in the program of ‘’ Building Scalable Agentic Systems’’ -Statement of accomplishment (1.5H)2- Insert your proof of progress in the program of ‘’Associate AI Engineer for Developers’’ -Statement of accomplishment (26H)-Certificate: AI Engineer for Developers Associate-Transcript about obtained ScorePart B : Total: 10 pointsTitle: Agentic RAG System for Tunisian Heritage using Foundation Models and Workflow OrchestrationYou are mandated by a Tunisian public institution (e.g. INP, CNCI, regional heritage office) to design and implement an AI assistant that answers questions about Tunisian intangible heritage (poetry, songs, oral stories, rituals, historical events) in Arabic and French. The system must: - Use foundation models (LLMs and, later, multimodal models) combined with RetrievalAugmented Generation (RAG).- Be orchestrated using a workflow tool (e.g. n8nstyle logic: triggers, nodes, branches, subworkflows).- Respect AI sovereignty constraints (preference for openweight models, local/vectorized storage of Tunisian data, minimal reliance on foreign services for sensitive data).- Exhibit agentic behavior (the assistant decides when to search, translate, consult an ontology, or refuse).The exam is split into two phases:Phase 1 – Inclass Design (No Internet)\n- Contexte 3 (Appendix-Examples of Tunisian Intangible Heritage.pdf p.1): Appendix – Examples of Tunisian intangible heritage1. Oral poetry and literature1.1 Nationalist Tunisian poetryKeywords: AboulQacem Echebbi, “The Will to Live”, “To the Tyrants of the World”, recitation, school canon, revolution slogans.bestofbanknotes+1​1.2 Bedouin women’s oral poetryKeywords: southern Tunisia, Maṛāzīg, women’s gatherings, lullabies, love poems, laments, oral transmission.academia+1​1.3 Dialectal “malhoun” poetryKeywords: Tunisian Arabic, sung poetry, cafés, rural festivals, improvisation, humor, social satire.asjp.cerist+1​1.4 Twāyef of Ghbonten poetic repertoiresKeywords: Ghbonten, ritual poets, chanted verse, religious themes, local history, performing groups.ich.unesco​1.5 Family and village oral storiesKeywords: preindependence resistance, colonial period, martyrs, heroic ancestors, local legends, evening storytelling.wikipedia+1​2. Songs, chants, and music (with instruments)2.1 Malouf and Andalusiinspired musicKeywords: malouf, orchestra, oud, qanun, violin, ney, riqq, darbuka, urban salons, classical suites.music.apple+1​2.2 Sufi hadhra and madih chantsKeywords: hadhra, dhikr, religious gatherings, bendir, frame drums, chorus, trance, saint festivals.youtube​asjp.cerist​2.3 Wedding and henna songsKeywords: women’s chorus, henna night, ululation, darbuka, bendir, modern keyboard, procession, bride rituals.fanack+1​2.4 Rural and Bedouin vocal musicKeywords: desert regions, shepherd songs, gassba flute, simple percussion, callandresponse, seasonal work songs.academia+1​2.5 Popular folk ensemblesKeywords: folk bands, oud, violin, accordion, qanun, darbuka, dance music, regional festivals, recorded albums.wikipedia+1​3. Rituals, social practices, festive events3.1 Wedding ritual sequenceKeywords: engagement, hammam visit, henna ceremony, zaffa procession, songs, gifts, women’s rituals, family gathering.fanack​3.2 Henna and body adornment practicesKeywords: henna patterns, hands and feet, symbolism, protection, fertility, women’s expertise, prewedding preparation.asjp.cerist+1​3.3 Hammam rituals\n- Contexte 4 (Examen MR2-Option2-Seminaire-13-01-2026-Final.pdf p.3): Indicate explicitly in your pseudocode or on your diagrams where evaluation will be applied in Phase 2, for example:- After `Generate_LLM_Response`: measure heritage answer quality and hallucination risk. - After tool selection: measure percentage of queries requiring foreign services. - After logging: enable future analysis of bias, coverage, and failure modes.Phase 2 – Outofclass Implementation & Evaluation (optional)In this phase you can use Internet, workflow tools (e.g. n8n), APIs, and any allowed opensource components. You must implement and evaluate the design from Phase 1, with minimal justified adaptations.4. Implementation and demonstrationUsing a workflow/orchestration tool of your choice (e.g. n8nstyle system):- Implement the ingestion/indexing workflow and the query/agent workflow that correspond to your Phase1 diagrams (adaptations must be explained briefly). - Provide evidence of execution (screenshots of workflows, log excerpts, and at least 3 example queries and outputs that show: - a purely heritage RAG answer, - a case requiring translation, - a case that should be refused or redirected).Your implementation can be minimal but must be coherent with your initial design. 5. Evaluation and critical reflectionPrepare a concise report (1–2 pages) that includes: 5.1 Test and evaluation results - At least 5 test queries (including some from Phase 1) that cover: - Different languages (Arabic/French). - Different content types (poetry, rituals, historical events). - At least one “difficult” or ambiguous\n\nSynthèse: (à compléter par un modèle LLM local si disponible)\n- Je me base sur les extraits ci-dessus; si tu veux une réponse plus détaillée, je peux reformuler et structurer davantage.",
+    "tool_uses": [
+      {
+        "name": "sovereignty_check",
+        "details": {
+          "ok": true,
+          "reason": "local-only"
+        }
+      },
+      {
+        "name": "detect_language",
+        "details": {
+          "lang": "ar"
+        }
+      },
+      {
+        "name": "translate",
+        "details": {
+          "from": "ar",
+          "to": "fr",
+          "applied": true
+        }
+      },
+      {
+        "name": "retrieve",
+        "details": {
+          "k": 4,
+          "top_scores": [
+            0.1667908658233296,
+            0.07938515682506647,
+            0.04243444125683786
+          ]
+        }
+      }
+    ],
+    "eval": {
+      "after_generate": {
+        "hallucination_risk_proxy": 0.9180527853493762
+      },
+      "after_tool_selection": {
+        "foreign_tools_used": 0
+      }
+    },
+    "retrieved": [
+      {
+        "doc_id": "Appendix-Examples of Tunisian Intangible Heritage",
+        "source_path": "data\\raw\\Appendix-Examples of Tunisian Intangible Heritage.pdf",
+        "page": 2,
+        "chunk_id": "p2-c0",
+        "text": "Keywords: public baths, steam, exfoliation, prewedding purification, social space, women’s networks, weekly habits.wikipedia+1​3.4 Bouhrous ritual in Jarsin (Kébili)Keywords: Jarsin, palmleaf doll, tenday cycle, perfume ritual, community gathering, memory of a saint.asjp.cerist​3.5 Saintday celebrations and pilgrimagesKeywords: marabout shrines, ziyara, candles, vows, processions, local markets, shared meals, religious chants.folklife.si+1​4. Historical narratives, slogans, and commemorations4.1 Echebbiinspired revolution slogansKeywords: “The Will to Live”, Arab Spring, protest chants, banners, street art, poetic lines as slogans, 2010–2011.boundary2+1​4.2 Oral memories of anticolonial resistanceKeywords: French protectorate, guerrilla stories, village heroes, oral testimonies, elders’ narratives, local toponyms.boundary2+1​4.3 Commemorations of independence and martyrsKeywords: national holidays, official speeches, wreathlaying, school ceremonies, patriotic songs, televised rituals.boundary2+1​4.4 Narratives around the Tunisian RevolutionKeywords: Sidi Bouzid, Mohamed Bouazizi, protest camps, sitins, youth testimonies, neighborhood stories, media slogans.boundary2​4.5 Local conflict and migration storiesKeywords: border regions, smuggling routes, clandestine migration, shipwreck memories, community mourning rituals.patrimoinedetunisie+1​1.https://www.bestofbanknotes.com/abou-el-kacem-chebbi-voice-of-tunisian-poetry/2.https://en.wikipedia.org/wiki/Aboul-Qacem_Echebbi3.https://www.academia.edu/9133583/Bedouin_Women_s_Poetry_in_Southern_Tunisia4.https://asjp.cerist.dz/en/downArticle/920/3/1/2724815.https://en.wikipedia.org/wiki/Culture_of_Tunisia6.https://ich.unesco.org/en/RL/performing-arts-among-the-twyef-of-ghbonten-018757.https://www.boundary2.org/2013/05/mohamed-salah-omris-original-essay-on-the-tunisian-revolution/8.https://music.apple.com/am/album/tunisia-vol-3-folk-music/2685999029.https://www.youtube.com/watch?v=QvsaRAlz9H810.https://fanack.com/tunisia/culture-of-tunisia/tunisian-weddings-a-tale-of-tradition-and-modernity/11.https://open.spotify.com/playlist/2QkHlB3wtXfQBCQ0YVZGyn12.https://folklife.si.edu/news-and-events/tunisia-ich-symposium13.https://www.patrimoinedetunisie.com.tn/en/news/news/patrimoine-culturel-immateriel-et-enjeux-de-sauvegarde-et-de-durabilite-en-lien-avec-le-tourisme-cu/?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=e4f0a3e9bac92e9c2e3c0b96b0e3fb24",
+        "score": 0.1667908658233296,
+        "rank": 1
+      },
+      {
+        "doc_id": "Examen MR2-Option2-Seminaire-13-01-2026-Final",
+        "source_path": "data\\raw\\Examen MR2-Option2-Seminaire-13-01-2026-Final.pdf",
+        "page": 1,
+        "chunk_id": "p1-c0",
+        "text": "Exam MR2 (Option2)Nom et prénom:CIN:Allowed documents:1- Datacamp Resources2- List of FiguresPart A : Total: 10 points1- Insert your proof of progress in the program of ‘’ Building Scalable Agentic Systems’’ -Statement of accomplishment (1.5H)2- Insert your proof of progress in the program of ‘’Associate AI Engineer for Developers’’ -Statement of accomplishment (26H)-Certificate: AI Engineer for Developers Associate-Transcript about obtained ScorePart B : Total: 10 pointsTitle: Agentic RAG System for Tunisian Heritage using Foundation Models and Workflow OrchestrationYou are mandated by a Tunisian public institution (e.g. INP, CNCI, regional heritage office) to design and implement an AI assistant that answers questions about Tunisian intangible heritage (poetry, songs, oral stories, rituals, historical events) in Arabic and French. The system must: - Use foundation models (LLMs and, later, multimodal models) combined with RetrievalAugmented Generation (RAG).- Be orchestrated using a workflow tool (e.g. n8nstyle logic: triggers, nodes, branches, subworkflows).- Respect AI sovereignty constraints (preference for openweight models, local/vectorized storage of Tunisian data, minimal reliance on foreign services for sensitive data).- Exhibit agentic behavior (the assistant decides when to search, translate, consult an ontology, or refuse).The exam is split into two phases:Phase 1 – Inclass Design (No Internet)",
+        "score": 0.07938515682506647,
+        "rank": 2
+      },
+      {
+        "doc_id": "Appendix-Examples of Tunisian Intangible Heritage",
+        "source_path": "data\\raw\\Appendix-Examples of Tunisian Intangible Heritage.pdf",
+        "page": 1,
+        "chunk_id": "p1-c0",
+        "text": "Appendix – Examples of Tunisian intangible heritage1. Oral poetry and literature1.1 Nationalist Tunisian poetryKeywords: AboulQacem Echebbi, “The Will to Live”, “To the Tyrants of the World”, recitation, school canon, revolution slogans.bestofbanknotes+1​1.2 Bedouin women’s oral poetryKeywords: southern Tunisia, Maṛāzīg, women’s gatherings, lullabies, love poems, laments, oral transmission.academia+1​1.3 Dialectal “malhoun” poetryKeywords: Tunisian Arabic, sung poetry, cafés, rural festivals, improvisation, humor, social satire.asjp.cerist+1​1.4 Twāyef of Ghbonten poetic repertoiresKeywords: Ghbonten, ritual poets, chanted verse, religious themes, local history, performing groups.ich.unesco​1.5 Family and village oral storiesKeywords: preindependence resistance, colonial period, martyrs, heroic ancestors, local legends, evening storytelling.wikipedia+1​2. Songs, chants, and music (with instruments)2.1 Malouf and Andalusiinspired musicKeywords: malouf, orchestra, oud, qanun, violin, ney, riqq, darbuka, urban salons, classical suites.music.apple+1​2.2 Sufi hadhra and madih chantsKeywords: hadhra, dhikr, religious gatherings, bendir, frame drums, chorus, trance, saint festivals.youtube​asjp.cerist​2.3 Wedding and henna songsKeywords: women’s chorus, henna night, ululation, darbuka, bendir, modern keyboard, procession, bride rituals.fanack+1​2.4 Rural and Bedouin vocal musicKeywords: desert regions, shepherd songs, gassba flute, simple percussion, callandresponse, seasonal work songs.academia+1​2.5 Popular folk ensemblesKeywords: folk bands, oud, violin, accordion, qanun, darbuka, dance music, regional festivals, recorded albums.wikipedia+1​3. Rituals, social practices, festive events3.1 Wedding ritual sequenceKeywords: engagement, hammam visit, henna ceremony, zaffa procession, songs, gifts, women’s rituals, family gathering.fanack​3.2 Henna and body adornment practicesKeywords: henna patterns, hands and feet, symbolism, protection, fertility, women’s expertise, prewedding preparation.asjp.cerist+1​3.3 Hammam rituals",
+        "score": 0.04243444125683786,
+        "rank": 3
+      },
+      {
+        "doc_id": "Examen MR2-Option2-Seminaire-13-01-2026-Final",
+        "source_path": "data\\raw\\Examen MR2-Option2-Seminaire-13-01-2026-Final.pdf",
+        "page": 3,
+        "chunk_id": "p3-c0",
+        "text": "Indicate explicitly in your pseudocode or on your diagrams where evaluation will be applied in Phase 2, for example:- After `Generate_LLM_Response`: measure heritage answer quality and hallucination risk. - After tool selection: measure percentage of queries requiring foreign services. - After logging: enable future analysis of bias, coverage, and failure modes.Phase 2 – Outofclass Implementation & Evaluation (optional)In this phase you can use Internet, workflow tools (e.g. n8n), APIs, and any allowed opensource components. You must implement and evaluate the design from Phase 1, with minimal justified adaptations.4. Implementation and demonstrationUsing a workflow/orchestration tool of your choice (e.g. n8nstyle system):- Implement the ingestion/indexing workflow and the query/agent workflow that correspond to your Phase1 diagrams (adaptations must be explained briefly). - Provide evidence of execution (screenshots of workflows, log excerpts, and at least 3 example queries and outputs that show: - a purely heritage RAG answer, - a case requiring translation, - a case that should be refused or redirected).Your implementation can be minimal but must be coherent with your initial design. 5. Evaluation and critical reflectionPrepare a concise report (1–2 pages) that includes: 5.1 Test and evaluation results - At least 5 test queries (including some from Phase 1) that cover: - Different languages (Arabic/French). - Different content types (poetry, rituals, historical events). - At least one “difficult” or ambiguous",
+        "score": 0.03917839469726121,
+        "rank": 4
+      }
+    ],
+    "timestamp": 1768837789.3099344
+  },
+  {
+    "answer": "Je ne peux pas aider pour cette demande. Pose une question sur le patrimoine immatériel tunisien.",
+    "tool_uses": [
+      {
+        "name": "sovereignty_check",
+        "details": {
+          "ok": true,
+          "reason": "local-only"
+        }
+      },
+      {
+        "name": "refuse",
+        "details": {
+          "reason": "security"
+        }
+      }
+    ]
+  }
+]
